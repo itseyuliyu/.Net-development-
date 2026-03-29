@@ -14,6 +14,6 @@ public IActionResult Index()
     // GET: /HelloWorld/Welcome/ 
     public string Welcome()
     {
-        return "i will add another view for this one";
+        return "i will add another or merry";
     }
 }
