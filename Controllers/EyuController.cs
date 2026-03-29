@@ -9,7 +9,7 @@ public class EyuController : Controller
     // GET: /HelloWorld/
 public String  Index()
 {
-  return "Hey eyu edet nesh selam new  ";
+  return "Hey eyu edet nesh selam new awo w  ";
 }
     // GET: /HelloWorld/Welcome/ 
     public string Eyu()
