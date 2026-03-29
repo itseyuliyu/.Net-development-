@@ -12,7 +12,7 @@ public IActionResult Index()
     return View();
 }
     // GET: /HelloWorld/Welcome/ 
-    public string Welcome()
+    public string Merry()
     {
         return "i will add another or merry";
     }
