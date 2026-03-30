@@ -16,4 +16,8 @@ public IActionResult Index()
     {
         return View();
     }
+ public IActionResult EYU()
+    {
+        return View();
+    }
 }
