@@ -39,5 +39,15 @@ result =a/b;
         
         return View();
     }
+    public IActionResult Modules(int a ,int b)
+    {
 
+
+        int result ;
+result =a%b;
+ ViewData["Modules"]=result;
+        
+        return View();
+
+}
 }

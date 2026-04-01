@@ -83,8 +83,6 @@ C:\Users\eyeru\OneDrive\Documents\Desktop\.eNET\.Net-development-\MvcMovie\obj\D
 C:\Users\eyeru\OneDrive\Documents\Desktop\.eNET\.Net-development-\MvcMovie\obj\Debug\net10.0\compressed\7tpgvl3x37-{0}-muycvpuwrr-muycvpuwrr.gz
 C:\Users\eyeru\OneDrive\Documents\Desktop\.eNET\.Net-development-\MvcMovie\obj\Debug\net10.0\compressed\kk6x8kwsgs-{0}-87fc7y1x7t-87fc7y1x7t.gz
 C:\Users\eyeru\OneDrive\Documents\Desktop\.eNET\.Net-development-\MvcMovie\obj\Debug\net10.0\compressed\u23ny76nnj-{0}-mlv21k5csn-mlv21k5csn.gz
-C:\Users\eyeru\OneDrive\Documents\Desktop\.eNET\.Net-development-\MvcMovie\obj\Debug\net10.0\compressed\1kt5hl28no-{0}-srdz53kpfw-srdz53kpfw.gz
-C:\Users\eyeru\OneDrive\Documents\Desktop\.eNET\.Net-development-\MvcMovie\obj\Debug\net10.0\compressed\xzd9bq0s9u-{0}-srdz53kpfw-srdz53kpfw.gz
 C:\Users\eyeru\OneDrive\Documents\Desktop\.eNET\.Net-development-\MvcMovie\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\eyeru\OneDrive\Documents\Desktop\.eNET\.Net-development-\MvcMovie\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\eyeru\OneDrive\Documents\Desktop\.eNET\.Net-development-\MvcMovie\obj\Debug\net10.0\staticwebassets.development.json
@@ -96,3 +94,6 @@ C:\Users\eyeru\OneDrive\Documents\Desktop\.eNET\.Net-development-\MvcMovie\obj\D
 C:\Users\eyeru\OneDrive\Documents\Desktop\.eNET\.Net-development-\MvcMovie\obj\Debug\net10.0\MvcMovie.genruntimeconfig.cache
 C:\Users\eyeru\OneDrive\Documents\Desktop\.eNET\.Net-development-\MvcMovie\obj\Debug\net10.0\ref\MvcMovie.dll
 C:\Users\eyeru\OneDrive\Documents\Desktop\.eNET\.Net-development-\MvcMovie\obj\Debug\net10.0\MvcMovie.sourcelink.json
+C:\Users\eyeru\OneDrive\Documents\Desktop\.eNET\.Net-development-\MvcMovie\obj\Debug\net10.0\scopedcss\Views\Calculator\Adding.cshtml.rz.scp.css
+C:\Users\eyeru\OneDrive\Documents\Desktop\.eNET\.Net-development-\MvcMovie\obj\Debug\net10.0\compressed\1kt5hl28no-{0}-8m20jay5y6-8m20jay5y6.gz
+C:\Users\eyeru\OneDrive\Documents\Desktop\.eNET\.Net-development-\MvcMovie\obj\Debug\net10.0\compressed\xzd9bq0s9u-{0}-8m20jay5y6-8m20jay5y6.gz
