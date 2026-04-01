@@ -17,4 +17,18 @@ result =a+b;
         
         return View();
     }
+
+ public IActionResult Multiply (int a ,int b)
+    {
+
+
+        int result ;
+result =a*b;
+ ViewData["Multiply"]=result;
+        
+        return View();
+    }
+
+
+
 }
