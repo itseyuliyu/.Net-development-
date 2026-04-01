@@ -29,6 +29,15 @@ result =a*b;
         return View();
     }
 
+ public IActionResult Division (int a ,int b)
+    {
 
+
+        int result ;
+result =a/b;
+ ViewData["Division"]=result;
+        
+        return View();
+    }
 
 }
