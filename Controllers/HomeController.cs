@@ -27,7 +27,7 @@ public class HomeController : Controller
 
     if (age < 13)
     {
-        result = "You are a Child";
+        result = "You are not Child";
     }
     else if (age < 18)
     {
