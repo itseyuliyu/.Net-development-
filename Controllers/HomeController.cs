@@ -21,4 +21,28 @@ public class HomeController : Controller
     {
         return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
+   public IActionResult CheckAge(int age)
+{
+    string result;
+
+    if (age < 13)
+    {
+        result = "You are a Child";
+    }
+    else if (age < 18)
+    {
+        result = "You are a Teen";
+    }
+    else
+    {
+        result = "You are an Adult";
+    }
+
+    ViewData["Result"] = result;
+
+    return View();
 }
+
+    
+}
+
